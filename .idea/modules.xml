@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nifi-nifi_notify_teams-nar/nifi-nifi_notify_teams-nar.iml" filepath="$PROJECT_DIR$/nifi-nifi_notify_teams-nar/nifi-nifi_notify_teams-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-nifi_notify_teams-processors/nifi-nifi_notify_teams-processors.iml" filepath="$PROJECT_DIR$/nifi-nifi_notify_teams-processors/nifi-nifi_notify_teams-processors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi_notify_teams.iml" filepath="$PROJECT_DIR$/nifi_notify_teams.iml" />
+    </modules>
+  </component>
+</project>
