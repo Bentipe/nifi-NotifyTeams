@@ -1,0 +1,2 @@
+teams\processors\nifi_notify_teams\Message.class
+teams\processors\nifi_notify_teams\PutTeams.class

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nifi-nifi_notify_teams-nar" />
+        <module name="nifi-nifi_notify_teams-processors" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nifi-nifi_notify_teams-nar" target="1.8" />
+      <module name="nifi-nifi_notify_teams-processors" target="1.8" />
+      <module name="nifi_notify_teams" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
