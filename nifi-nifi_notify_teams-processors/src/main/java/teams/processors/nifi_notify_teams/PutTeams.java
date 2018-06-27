@@ -45,8 +45,8 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-@Tags({"teams","microsoft","put","message","v0.2"})
-@CapabilityDescription("Sends a webhook message to teams")
+@Tags({"teams","microsoft","put","message","v1.5"})
+@CapabilityDescription("Sends a webhook message to teams, accepts params")
 @ReadsAttributes({@ReadsAttribute(attribute="title", description="the title that the message has to be sent"),@ReadsAttribute(attribute="body", description="gets the body, the content of the message")})
 public class PutTeams extends AbstractProcessor {
 

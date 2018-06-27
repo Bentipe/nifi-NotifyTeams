@@ -19,7 +19,7 @@
     <parent>
         <groupId>teams</groupId>
         <artifactId>nifi_notify_teams</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.5</version>
     </parent>
 
     <artifactId>nifi-nifi_notify_teams-processors</artifactId>
